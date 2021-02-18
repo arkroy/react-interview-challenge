@@ -1,0 +1,3 @@
+export const SET_SHIPPING_COST = 'SET_SHIPPING_COST';
+
+export default SET_SHIPPING_COST;

@@ -1,0 +1,27 @@
+const messages = {
+  appHeader: 'Shipping Label Maker',
+  commonNameFieldLabel: 'Name',
+  commonStreetFieldLabel: 'Street Address',
+  commonCityFieldLabel: 'City',
+  commonStateFieldLabel: 'State',
+  commonCountryFieldLabel: 'Country',
+  commonZipCodeFieldLabel: 'Zipcode',
+  commonNextButtonLabel: 'Next',
+  commonBackButtonLabel: 'Previous',
+  shippersAddressHeading: 'Shippers address',
+  recipientAddressHeading: 'Receivers address',
+  shippingWeightHeading: 'Package weight',
+  shippingWeightLabel: 'Weight',
+  shippingOptionsHeading: 'Shipping options',
+  modeOfShipmentLabel: 'Mode',
+  modeOfShipmentLand: 'Land',
+  modeOfShipmentAir: 'Air',
+  shippingPriorityLabel: 'Shipping priority',
+  shippingPriorityRegular: 'Regular',
+  shippingPriorityExpress: 'Express',
+  reviewHeading: 'Review shipping Details',
+  reviewCost: 'Cost of shipping',
+  confirmationHeading: 'Your shipping label was successfully created',
+};
+
+export default messages;

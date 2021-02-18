@@ -1,0 +1,3 @@
+export const SET_SHIPPING_WEIGHT = 'SET_SHIPPING_MODE';
+
+export default SET_SHIPPING_WEIGHT;
