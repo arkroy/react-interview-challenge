@@ -18,7 +18,9 @@ const Dropdown = ({ label, selectedValue, handleChange }) => {
           id: `${label}-native-simple`,
         }}
       >
-        Hello World
+       <option value='HW'>
+          'HELLO WORLD'
+        </option>
       </Select>
     </>
   );
